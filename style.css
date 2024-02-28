@@ -15,7 +15,7 @@ body {
     font-family: 'Chakra Petch', sans-serif;
 }
 
-.conteudo-principal {
+.conteudo-principal{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -36,6 +36,6 @@ body {
 }
 
 
-.botao {
+.botao{
     font-family: "Chakra Petch" , sans-serif;
 }
