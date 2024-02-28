@@ -9,31 +9,32 @@
     --texto-fundo:#e4e4e4;
 }
 
-body{
+body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: "Chakra Petch", sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
 }
 
-conteudo-principal {
+.conteudo-principal {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     max-width: 1200px;
     width: 100%;
-    margin: 0 auto;
 }
 
-titulo-principal {
+
+.titulo-principal{
     text-align: left;
     width: 100%;
     font-size: 32px;
 }
 
-titulo-principal span{
+.titulo-principal span{
     color: var(--rosa);
 }
+
 
 .botao {
     font-family: "Chakra Petch" , sans-serif;
