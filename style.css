@@ -12,7 +12,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    font-family: "Chakra Petch", sans-serif;;
+    font-family: "Chakra Petch", sans-serif;
 }
 
 conteudo-principal {
@@ -23,4 +23,18 @@ conteudo-principal {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+}
+
+titulo-principal {
+    text-align: left;
+    width: 100%;
+    font-size: 32px;
+}
+
+titulo-principal span{
+    color: var(--rosa);
+}
+
+.botao {
+    font-family: "Chakra Petch" , sans-serif;
 }
