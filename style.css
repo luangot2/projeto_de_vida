@@ -48,7 +48,7 @@ body {
     width: 100%;
 }
 
-    .botoes{   
+.botoes{   
     display: block;
     border-bottom: 4px solid var(--botao-ativo);
     border-left: 2px solid var(--botao-ativo);
