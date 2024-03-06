@@ -1,1 +1,2 @@
-const botoes = document .querySelectorAll(".botao")
+<<<<<<< HEAD
+const botoes = document .querySelectorAll(".botao");
