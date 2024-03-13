@@ -84,7 +84,6 @@ body {
 .aba-conteudo-titulo-secundario{
     text-align: center;
     color: var(--rosa);
-    font-weight: bold;
     text-transform: uppercase;
 }
 
