@@ -70,6 +70,7 @@ body {
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
+
 .aba-conteudo.ativo{
     display:block;
 }
@@ -82,6 +83,7 @@ body {
     font-size: 28px;
     text-align: center;
 }
+
 .aba-conteudo-titulo-secundario{
     text-align: center;
     color: var(--rosa);
