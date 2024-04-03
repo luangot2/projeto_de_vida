@@ -87,6 +87,10 @@ body {
     text-transform: uppercase;
 }
 
+.contador{  /*aula6*/
+    font-size: 20px;
+    text-align: center;
+}
 
  @media screen and (min-width: 768px) { 
     .botoes { 
